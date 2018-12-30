@@ -11,7 +11,7 @@ my cousin and I are building a punch activated water gun. Currently, we are wait
 
   <p> <a href="https://componentsearchengine.com/ga/part.php?partID=380883"> Adafruit LIS3DH  </a></p>
   <p> <a href="https://componentsearchengine.com/ga/part.php?partID=228694"> Arduino Nano </a></a></li>
-  <li> <p> <a href="https://www.snapeda.com/parts/IRF520/Vishay%20Siliconix/view-part/?ref=search&t=irf520"> IRF520</a></p></li>
+  <p> <a href="https://www.snapeda.com/parts/IRF520/Vishay%20Siliconix/view-part/?ref=search&t=irf520"> IRF520</a></p>
 
 
 
