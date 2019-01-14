@@ -6,7 +6,7 @@ my cousin and I are building a punch activated water gun. Currently, we are wait
 # C Code
 <p> We will be uploading the code in a couple of weeks </p>
 
-# PCB File
+# PCB Files
 
 <p> Inside the files are the schematic, PCB file, Gerber and NC Drill files made with Altium Designer 17.0 </p>
 
