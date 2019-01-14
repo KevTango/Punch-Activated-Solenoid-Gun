@@ -1,8 +1,11 @@
 # PunchActivatedWaterGun
 
 <p> Inspired by Allen Pan’s <a href="https://www.hackster.io/Advanced/punch-activated-arm-flamethrowers-real-firebending-95bb80" target="_blank" title="A link to the project">Punch Activated Arm Flamethrowers</a>, 
-my cousin and I are building a punch activated water gun. Currently, we are waiting on parts to arrive, so we can begin on assembly. </p>
+my cousin and I are building a punch activated water gun. Currently, we are waiting starting on assembly. </p>
   
+# C Code
+<p> We will be uploading the code in a couple of weeks </p>
+
 # PCB File
 
 <p> Inside the files are the schematic, PCB file, Gerber and NC Drill files made with Altium Designer 17.0 </p>
