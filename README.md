@@ -8,7 +8,7 @@ my cousin and I are building a punch activated water gun. Currently, we are star
 
 # PCB Files
 
-<p> Inside the files are the schematic, PCB file, Gerber and NC Drill files made with Altium Designer 17.0 </p>
+<p> Inside the files are the schematic and PCB files made with Altium Designer 17.0 </p>
 
 # Libraries used
 
